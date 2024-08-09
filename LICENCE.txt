@@ -1,0 +1,71 @@
+## ETHICAL CONSIDERATIONS & PERMISSIONS ##
+
+### IMPORTANT NOTE ###
+
+This keylogger tool is intended solely for educational purposes to help users understand how keyloggers function and to emphasize the importance of cybersecurity and ethical hacking
+practices. It is crucial to use this tool responsibly and ethically.
+
+### ETHICAL USAGE ###
+
+#---------------Explicit Permission---------------------#
+
+>>>Always obtain explicit permission from the owner of the device on which you plan to run this keylogger. 
+>>>Unauthorized use of keyloggers is illegal and unethical.
+
+
+
+#---------------Legal Compliance------------------------#
+
+>>>Be aware of and comply with all applicable laws and regulations regarding the use of keyloggers in your jurisdiction.
+>>>Unauthorized monitoring of keystrokes is prohibited by law in many areas and can lead to severe legal consequences.
+
+
+
+
+#---------------Transparency----------------------------#
+
+>>>Clearly inform all parties involved about the installation and operation of the keylogger. 
+>>>Transparency helps build trust and ensures that all actions are conducted ethically.
+
+
+
+
+#---------------Educational Purpose---------------------#
+
+>>>Use this tool strictly for educational purposes, such as learning about cybersecurity threats, conducting ethical hacking training, or testing your own systems
+   in a controlled environment.
+
+
+
+
+### RESPONSIBLE DISCLOSURE ###
+
+#-----------Reporting Vulnerabilities-------#
+
+===>>> If you discover any vulnerabilities while using this tool, responsibly disclose them to the appropriate parties to improve security.
+
+
+#-----------Data Protection-----------------#
+
+===>>> Ensure that any data collected using this tool is handled securely and deleted after use.
+===>>> Do not misuse or disclose any information gathered without proper authorization.
+
+
+
+
+### LICENCE ### 
+
+===>>> `LICENSE` (MIT License):
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions mentioned below:
+
+....................................................................................................
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
