@@ -1,0 +1,17 @@
+
+
+
+To use this tool:
+
+   CLONE THIS REPOSITORY 
+
+        ==>>   git clone https://github.com/MidhunNochi/PRODIGY_CS_03.git  <<==
+                         ================================================
+
+
+
+        ==>>   cd PRODIGY_CS_03  <<==
+                  =============
+
+
+
